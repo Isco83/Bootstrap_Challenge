@@ -12,6 +12,7 @@
 .txtfuture{
     font-size: 3rem;
     font-weight: bolder;
+    max-width: 70%;
 }
 
 .newtxt{
@@ -27,7 +28,8 @@
 }
 
 .txtnextevol{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    max-width: 100%;
 }
 
 .subtxtparr{
